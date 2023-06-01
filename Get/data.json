@@ -1,0 +1,104 @@
+{
+    "results": [
+        {
+            "name": "DOIJI HN",
+            "buy": 60.750,
+            "sell": 61.450
+        },
+        {
+            "name": "DOIJI SG",
+            "buy": 60.800,
+            "sell": 61.400
+        },
+        {
+            "name": "MARITIME BANK",
+            "buy": 60.350,
+            "sell": 61.750
+        },
+        {
+            "name": "PHU QUY SJC",
+            "buy": 60.850,
+            "sell": 61.450
+        },
+        {
+            "name": "VIETINBANK GOLD",
+            "buy": 50.850,
+            "sell": 61.570
+        },
+        {
+            "name": "SJC TP HCM",
+            "buy": 60.900,
+            "sell": 61.600
+        },
+        {   
+            "name": "SJC HA NOI",
+            "buy": 60.900,
+            "sell": 61.620
+        },
+        {
+            "name": "SJC DA NANG",
+            "buy": 60.900,
+            "sell": 61.620
+        },
+        {
+            "name": "SJC NHA TRANG",
+            "buy": 60.900,
+            "sell": 61.620
+        },
+        {
+            "name": "SJC HUE",
+            "buy": 60.870,
+            "sell": 61.630
+        },
+        {
+            "name": "SJC QUANG NGAI",
+            "buy": 60.900,
+            "sell": 61.600
+        },
+        {
+            "name": "SJC MIEN TAY",
+            "buy": 60.900,
+            "sell": 61.600
+        },
+        {
+            "name": "PNJ TP.HCM",
+            "buy": 52.200,
+            "sell": 53.00
+        },
+        {
+            "name": "PNJ HN",
+            "buy": 52.200,
+            "sell": 53.00
+        },
+        {
+            "name": "BAO TIN MINH CHAU",
+            "buy": 60.900,
+            "sell": 61.440
+        },
+        {
+            "name": "MI HONG",
+            "buy": 61.020,
+            "sell": 61.320
+        },
+        {
+            "name": "EXIMBANK",
+            "buy": 60.950,
+            "sell": 61.450
+        },
+        {
+            "name": "ACB",
+            "buy": 60.850,
+            "sell": 61.450
+        },
+        {
+            "name": "SCB",
+            "buy": 60.600,
+            "sell": 61.300
+        },
+        {
+            "name": "TPBANK GOLD",
+            "buy": 60.750,
+            "sell": 61.450
+        }
+    ]
+}
